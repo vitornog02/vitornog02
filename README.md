@@ -1,36 +1,175 @@
-# Hi there! I'm Vitor 👋
 
-### Production Engineering Student | Software Development | AI & Automation
+<div align="center">
 
-I'm a Production Engineering student at UniFOA and a Systems Analysis and Development student at Estácio, passionate about technology, process optimization, and building digital solutions.
+# Hey, I'm Vitor Nogueira! 👋
 
-My interests lie at the intersection of **business, software development, and artificial intelligence**, where I explore ways to solve real-world problems through technology.
+### Engineering × Software Development × Artificial Intelligence
 
-### 🚀 What I'm working on
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1200&color=36BCF7&center=true&vCenter=true&width=650&lines=Production+Engineering+Student;Software+Development+Enthusiast;Automation+%26+Digital+Solutions;Building+Technology+for+Real-World+Problems" alt="Typing animation" />
 
-- **REPZ:** A mobile workout tracking application built with React Native, Expo, and TypeScript.
-- **Pallazo Concept:** A desktop management system for a retail and hospitality business, using React, TypeScript, Tauri, and SQLite.
-- **Process Automation:** Solutions focused on improving workflows, data analysis, and operational efficiency.
+<br/>
 
-### 🛠️ Technologies & Tools
+![Profile Views](https://komarev.com/ghpvc/?username=vitornog02&style=for-the-badge&color=0e75b6)
 
-**Software Development:** TypeScript, React, React Native, Expo, SQLite, Git
+</div>
 
-**Automation & Data:** Excel, VBA, Power Query, Power Automate, Power Apps
+---
 
-**Engineering & Business:** Process Improvement, Operations Management, Data Analysis
+## 👨‍💻 About Me
 
-**Currently Exploring:** Artificial Intelligence, AI Agents, and Intelligent Automation
+I'm a **Production Engineering student at UniFOA** and a **Systems Analysis and Development student at Estácio**, based in Brazil.
 
-### 🎓 Education
+I enjoy connecting **engineering, technology, and business** to develop solutions that improve processes and solve real-world challenges.
 
-- **Production Engineering** — UniFOA | Expected graduation: 2027
-- **Systems Analysis and Development** — Estácio | In progress
+My interests include software development, process automation, data analysis, and the practical applications of artificial intelligence.
 
-### 🎯 My Goal
+- 🎓 Production Engineering — UniFOA | Expected graduation: 2027
+- 💻 Systems Analysis and Development — Estácio | In progress
+- ⚙️ Experience with process improvement, data analysis, and workflow automation
+- 🚀 Building desktop and mobile applications
+- 🤖 Exploring AI agents, intelligent automation, and AI-driven business solutions
+- 🎯 Interested in opportunities involving technology, AI, and digital transformation
 
-To combine engineering, software development, and artificial intelligence to build innovative solutions that improve processes, enhance experiences, and generate real business value.
+---
 
-### 📫 Let's Connect
+## 🛠️ Tech Stack
 
-Open to internship opportunities, collaboration, and learning experiences in technology, AI, and digital transformation.
+### 💻 Software Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,react,sqlite,git,github,vscode&theme=dark" alt="Development technologies"/>
+</p>
+
+**Additional technologies:** React Native · Expo · Tauri
+
+### ⚙️ Automation & Data
+
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white)
+![Power Apps](https://img.shields.io/badge/Power_Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white)
+![Power Query](https://img.shields.io/badge/Power_Query-217346?style=for-the-badge)
+![VBA](https://img.shields.io/badge/VBA-Visual_Basic-5C2D91?style=for-the-badge)
+
+### 🤖 Currently Exploring
+
+![Artificial Intelligence](https://img.shields.io/badge/Artificial_Intelligence-111827?style=for-the-badge)
+![AI Agents](https://img.shields.io/badge/AI_Agents-0F766E?style=for-the-badge)
+![Intelligent Automation](https://img.shields.io/badge/Intelligent_Automation-2563EB?style=for-the-badge)
+
+---
+
+## 🚀 Featured Projects
+
+### 🏋️ REPZ — Workout Tracking Application
+
+A mobile application designed to improve the workout tracking experience.
+
+**Key Features**
+- Workout creation and management
+- Tracking sets, repetitions, and training loads
+- Rest timers and workout summaries
+- Offline-first data persistence
+- Workout history and progress tracking
+
+**Technologies:** React Native · Expo · TypeScript · SQLite
+
+**Status:** In development — source code not publicly available.
+
+---
+
+### 🖥️ Pallazo Concept — Business Management System
+
+A desktop management solution developed for a real-world retail and hospitality business.
+
+**Key Features**
+- Product and inventory management
+- Customer registration
+- Sales and order management workflows
+- Business rules for products and services
+- Local database persistence
+
+**Technologies:** React · TypeScript · Tauri · SQLite
+
+**Status:** In development — proprietary source code is private.
+
+---
+
+### ⚙️ Process Automation & Digital Solutions
+
+Practical experience developing solutions to reduce repetitive work and improve operational efficiency.
+
+**Areas of Experience**
+- Excel automation with VBA
+- Data transformation using Power Query
+- Workflow automation with Power Automate
+- Business applications with Power Apps
+- Data validation, reporting, and process improvement
+
+**Focus:** Combining operational knowledge and technology to create measurable business value.
+
+---
+
+## 💼 Professional Background
+
+### Logistics & Process Improvement — CSN
+
+Experience supporting logistics operations, process analysis, and digital improvement initiatives in an industrial environment.
+
+**Areas of involvement**
+- Data analysis and operational reporting
+- Spreadsheet and workflow automation
+- Process standardization and improvement
+- Development of internal digital solutions
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=vitornog02&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitornog02&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages"/>
+
+</div>
+
+> GitHub statistics reflect repository activity, not the full extent of my development experience.
+
+---
+
+## 🎓 Education
+
+| Degree | Institution | Status |
+|---|---|---|
+| Production Engineering | UniFOA | Expected graduation: 2027 |
+| Systems Analysis and Development | Estácio | In progress — 1st semester |
+
+---
+
+## 🎯 What Drives Me
+
+I believe technology creates the most value when it solves meaningful problems.
+
+My goal is to combine **engineering thinking, software development, and artificial intelligence** to build practical, scalable solutions that improve business processes and user experiences.
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-nogueira-9b220b1b7/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-vitornog02-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vitornog02)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 Turning ideas into practical solutions.
+
+*Always learning. Always building.*
+
+</div>
