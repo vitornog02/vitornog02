@@ -123,20 +123,6 @@ Experience supporting logistics operations, process analysis, and digital improv
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=vitornog02&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitornog02&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages"/>
-
-</div>
-
-> GitHub statistics reflect repository activity, not the full extent of my development experience.
-
----
-
 ## 🎓 Education
 
 | Degree | Institution | Status |
